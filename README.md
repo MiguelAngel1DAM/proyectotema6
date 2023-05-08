@@ -38,4 +38,4 @@ To get started with our website, simply clone this repository and install the de
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md).
+This project was created for Migue Angel Hernández García
