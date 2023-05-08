@@ -22,4 +22,5 @@ Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarnos a través 
 - Twitter: [@JBLaudio](https://twitter.com/JBLaudio)
 - Instagram: [@jblaudio](https://www.instagram.com/jblaudio/)
 
+# Para esta pagina se usó leaflet y boostrap.
 ¡Gracias por visitar JBL!
