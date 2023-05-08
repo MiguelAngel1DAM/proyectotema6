@@ -1,26 +1,41 @@
-# JBL
+# JBL Website
 
-![JBL Logo](https://th.bing.com/th?id=OSK.d100e1e4413f1f6d30ac254cee01b8ee&w=148&h=148&c=7&o=6&pid=SANGAM)
+Welcome to the official website of JBL, a leading manufacturer of audio equipment.
 
-JBL es una marca de productos de audio de alta calidad, conocida por sus altavoces, auriculares y sistemas de sonido portátiles. En esta página web podrás encontrar toda la información sobre nuestros productos, así como realizar compras en nuestra tienda online.
+## Description
 
-## Características
+Our website offers a wide range of high-quality audio products for all your needs. From wireless headphones to portable speakers, we have it all. Browse through our collection and find the perfect product to enhance your audio experience.
 
-- Amplia variedad de productos de audio, desde altavoces hasta auriculares y sistemas de sonido portátiles.
-- Excelente calidad de sonido, con tecnologías innovadoras y diseño cuidado.
-- Facilidad de uso, con opciones de conectividad como Bluetooth y asistentes de voz.
+## Components
 
-## Compra en línea
+We have used the following components in our website:
 
-Puedes adquirir nuestros productos en nuestra tienda en línea, donde encontrarás una selección completa de nuestro catálogo. Ofrecemos envío gratuito a cualquier parte del mundo, así como garantía de devolución de dinero en caso de que no estés satisfecho con tu compra.
+- ReactJS for building the UI
+- Bootstrap for styling
+- Font Awesome for icons
+- React Router for navigation
+- Firebase for authentication and database management
 
-## Contacto
+## Tutorials
 
-Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarnos a través de nuestro formulario de contacto en la página web. También puedes seguirnos en nuestras redes sociales para estar al tanto de las últimas noticias y promociones.
+We have found the following tutorials helpful in building our website:
 
-- Facebook: [JBL](https://www.facebook.com/JBL/)
-- Twitter: [@JBLaudio](https://twitter.com/JBLaudio)
-- Instagram: [@jblaudio](https://www.instagram.com/jblaudio/)
+- [ReactJS documentation](https://reactjs.org/docs/getting-started.html)
+- [Bootstrap documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+- [React Router documentation](https://reactrouter.com/web/guides/quick-start)
+- [Leaflet](https://leafletjs.com/examples.html)
 
-# Para esta pagina se usó leaflet y boostrap.
-¡Gracias por visitar JBL!
+## Getting Started
+
+To get started with our website, simply clone this repository and install the dependencies using `npm install`. Once the dependencies are installed, run `npm start` to start the development server. You can access the website at `http://localhost:3000`.
+
+## Other Sections
+
+- **Installation:** A detailed guide on how to install and run the website locally.
+- **Usage:** An overview of the website's features and functionality.
+- **Contributing:** Guidelines for contributing to the website's development.
+- **License:** Information on the open-source license used by the website.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md).
