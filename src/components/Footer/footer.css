@@ -1,0 +1,79 @@
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 40px 0;
+}
+
+footer h4 {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+footer p {
+  text-align: center;
+  font-size: 25px;
+  line-height: 24px;
+}
+
+.contact-info li {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+/* para dispositivos móviles con un ancho máximo de 767 píxeles */
+@media screen and (max-width: 767px) {
+  footer {
+    width: 100vw;
+  }
+  footer p{
+    font-size: 15px;
+  }
+  .container {
+    width: 100vw;
+    padding: 0;
+  }
+
+  footer .row {
+    display: block;
+  }
+
+  footer .col-sm-12,
+  footer .col-md-4 {
+    width: 100vw;
+  }
+  .contact-info {
+    width: 99vw;
+    margin: 0;
+    padding: 0;
+  }
+
+  .contact-info > li {        
+    padding: 0;
+    margin: 0;
+  }
+}
+
+/* para tabletas con un ancho mínimo de 768 píxeles y un ancho máximo de 991 píxeles */
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  footer .col-sm-12,
+  footer .col-md-4 {
+    width: 100vw;
+  }
+  .contact-info{
+    width: 99%;
+  }
+  .contact-info>li{
+    margin: 0;
+    padding: 1vw;
+  }
+}
+
+/* para pantallas de PC con un ancho mínimo de 992 píxeles */
+@media screen and (min-width: 992px) {
+  footer .col-sm-12,
+  footer .col-md-4 {
+    width: 100vw;
+  }
+}
