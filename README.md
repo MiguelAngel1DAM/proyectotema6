@@ -1,6 +1,6 @@
 # JBL
 
-![JBL Logo](https://th.bing.com/th?id=OIP._FQ8PRHwgFqvlDrSMM_GWwHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2)
+![JBL Logo](https://th.bing.com/th?id=OSK.d100e1e4413f1f6d30ac254cee01b8ee&w=148&h=148&c=7&o=6&pid=SANGAM)
 
 JBL es una marca de productos de audio de alta calidad, conocida por sus altavoces, auriculares y sistemas de sonido portátiles. En esta página web podrás encontrar toda la información sobre nuestros productos, así como realizar compras en nuestra tienda online.
 
