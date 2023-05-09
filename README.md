@@ -1,3 +1,5 @@
+![LOGO](https://github.com/MiguelAngel1DAM/proyectotema6/blob/master/public/assets/img/icon-harman.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
