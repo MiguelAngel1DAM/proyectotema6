@@ -1,6 +1,6 @@
 # JBL Website
 
-Welcome to the official website of JBL, a leading manufacturer of audio equipment.
+![LOGO](https://github.com/MiguelAngel1DAM/proyectotema6/blob/master/public/assets/img/icon-harman.png)
 
 ## Description
 
