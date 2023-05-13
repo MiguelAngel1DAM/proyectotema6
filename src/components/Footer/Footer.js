@@ -13,8 +13,10 @@ function Footer() {
           <div className="col-sm-12 col-md-4">
             <h4>Enlaces </h4>
             <ul className="contact-info">
-              <li><ion-icon name="link-outline"></ion-icon>
-              <a href="https://github.com/MiguelAngel1DAM/proyectotema6.git">Enlace a GitHub</a></li>
+              <li>
+                <ion-icon name="link-outline"></ion-icon>
+                <a href="https://github.com/MiguelAngel1DAM/proyectotema6.git">Enlace a GitHub</a>
+              </li>              
               <li><ion-icon name="call-outline"></ion-icon> Teléfono: 928-345-111</li>
               <li><ion-icon name="mail-outline"></ion-icon> Email: macarron@jbl.com</li>
             </ul>
