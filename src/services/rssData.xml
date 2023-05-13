@@ -2,18 +2,18 @@
 <rss version="2.0">
 
 <channel>
-  <title>W3Schools Home Page</title>
-  <link>https://www.w3schools.com</link>
-  <description>Free web building tutorials</description>
+  <title>Usuarios agregados</title>
+  <link>http://localhost:3000/ClientData</link>
+  <description>Visualizacion de los usuarios</description>
   <item>
-    <title>RSS Tutorial</title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-    <description>CDATA[New RSS tutorial on W3Schools</description>
+    <title>Localizarte</title>
+    <link>http://localhost:3000/Map</link>
+    <description>Mapa para localizarte</description>
   </item>
   <item>
-    <title>XML Tutorial</title>
-    <link>https://www.w3schools.com/xml</link>
-    <description>New XML tutorial on W3Schools</description>
+    <title>JBL Gaming</title>
+    <link>https://www.jbl.es/gaming.html</link>
+    <description>Esta es la pagina oficial de JBL el apartado donde se venden auriculares para gaming</description>
   </item>
 </channel>
 
