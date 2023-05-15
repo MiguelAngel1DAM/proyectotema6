@@ -6,24 +6,24 @@
 
 Our website offers a wide range of high-quality audio products for all your needs. From wireless headphones to portable speakers, we have it all. Browse through our collection and find the perfect product to enhance your audio experience.
 
-## Components
-
-We have used the following components in our website:
-
-- ReactJS for building the UI
-- Bootstrap for styling
-- Font Awesome for icons
-- React Router for navigation
-- Firebase for authentication and database management
-
 ## Tutorials
 
 We have found the following tutorials helpful in building our website:
 
+- [YouTube](https://www.youtube.com/watch?v=0uNZDzi_jYs)
+- [W3schools](https://www.w3schools.com/REACT/DEFAULT.ASP)
 - [ReactJS documentation](https://reactjs.org/docs/getting-started.html)
-- [Bootstrap documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+- [Ion-Icon documentation](https://ionic.io/ionicons)
 - [React Router documentation](https://reactrouter.com/web/guides/quick-start)
 - [Leaflet](https://leafletjs.com/examples.html)
+
+## CRUD of users
+
+- To insert data got to Contactos page and insert the required data
+- To delete de data press the button of the user you want to delete
+- To update  the data change the data in the box you want and press the button Actualizar
+- To see the data is only enter the page Data beacuse the data in update in real time
+
 
 ## Getting Started
 
