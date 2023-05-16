@@ -5,6 +5,7 @@
 ## Description
 
 Our website offers a wide range of high-quality audio products for all your needs. From wireless headphones to portable speakers, we have it all. Browse through our collection and find the perfect product to enhance your audio experience.
+## This is the link for the page in firebase hosting: https://jbl-base.web.app/
 
 ## Tutorials
 
