@@ -2,6 +2,8 @@
 
 ![LOGO](https://github.com/MiguelAngel1DAM/proyectotema6/blob/master/public/assets/img/icon-harman.png)
 
+## FeedReader Image:
+![FeedReader](https://github.com/MiguelAngel1DAM/proyectotema6/blob/master/public/assets/img/feedReader.png)
 ## Description
 
 Our website offers a wide range of high-quality audio products for all your needs. From wireless headphones to portable speakers, we have it all. Browse through our collection and find the perfect product to enhance your audio experience.
